@@ -1,8 +1,8 @@
 ## **Tugas 1 Visualisasi Data dan Informasi**
 
-- Nama    : Jeremia Susanto 
-- NIM     : 122450022
-- Kelas   : RA
+# Nama    : Jeremia Susanto 
+# NIM     : 122450022
+# Kelas   : RA
 
 # **Abstrak:**
 Visualisasi data sangat penting dalam dunia bisnis yang didorong oleh data. Artikel ini membahas teknik-teknik yang membuat visualisasi data menjadi lebih efisien dan efektif, meliputi spesifikasi visualisasi, pendekatan efisien untuk proses visualisasi, dan rekomendasi visualisasi.
