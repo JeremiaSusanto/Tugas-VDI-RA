@@ -50,7 +50,7 @@ Berdasarkan kedua gambar visualisasi yang telah diunggah, berikut adalah analisi
 
 -------------------------------------------------------
 
-#### Gambar 1 : Barchart "Data Voting Juara
+#### Gambar 1 : Bar Chart "Data Voting Juara"
 - **Strive for Forms and Functions (Bentuk dan Fungsi)**:
   - Barchart ini berfungsi dengan baik dalam menampilkan jumlah voting untuk setiap pilihan. Bentuk batang yang jelas memudahkan pembaca untuk membandingkan.
   
@@ -63,18 +63,18 @@ Berdasarkan kedua gambar visualisasi yang telah diunggah, berikut adalah analisi
 - **Never Deceive the Receiver (Tidak Menyesatkan Pengguna)**:
   - Tidak ada indikasi penyesatan di visualisasi ini. Grafik ini memberikan informasi yang benar sesuai data dengan skala yang konsisten dan tidak mengarahkan pembaca pada interpretasi yang salah.
 
-#### Gambar 4: Pie Chart "Persentase Peminat Prodi di ITERA Tahun 2023"
+#### Gambar 3: Bar Chart "Persentase Peminat Prodi di ITERA Tahun 2023"
 - **Strive for Forms and Functions (Bentuk dan Fungsi)**:
-  - Pie chart ini mencoba menampilkan persentase peminat untuk banyak program studi sekaligus. Namun, karena banyaknya kategori, informasi yang disampaikan menjadi sulit dipahami.
+  - Pie chart ini mencoba menampilkan persentase dari banyak pemilih yang cukup jelas dengan persentase
   
 - **Justifying the Selection of Everything We Do (Justifikasi Setiap Elemen)**:
-  - Penggunaan warna yang beragam untuk membedakan setiap program studi seharusnya membantu, tetapi pemilihan terlalu banyak warna dengan saturasi yang mirip membuat visual ini sulit dibaca. Label yang diposisikan di luar grafik juga bertumpuk dan berpotensi membingungkan pembaca.
+  - Warna yang dipilih cukup beragam dan tidak mengganggu perhatian pembaca. Penempatan label sudah terstruktur dengan baik dan mudah dipahami.
   
 - **Creating Accessibility through Intuitive Design (Aksesibilitas melalui Desain Intuitif)**:
-  - Pie chart ini tidak intuitif karena terlalu banyak bagian kecil dengan nilai persentase yang mendekati satu sama lain. Hal ini menyebabkan pembaca kesulitan untuk melihat perbedaan antar program studi. Sebaiknya, visualisasi ini bisa diubah ke dalam bentuk lain, seperti bar chart, agar lebih mudah dibaca.
+  - Chart ini cukup menjelaskan dengan baik 
   
 - **Never Deceive the Receiver (Tidak Menyesatkan Pengguna)**:
-  - Grafik ini tidak menyesatkan, tetapi karena visualisasi terlalu padat, pembaca mungkin kesulitan menangkap pesan utama yang ingin disampaikan. Ini dapat membuat interpretasi data tidak optimal.
-
-- **Gambar 2 (Histogram)**: Visualisasi yang baik karena menyajikan informasi dengan jelas, struktur yang baik, dan tidak menyesatkan.
-- **Gambar 4 (Pie Chart)**: Visualisasi yang kurang efektif karena terlalu banyak informasi dalam satu visual, membuat pembaca sulit membedakan kategori dan memahami persentase secara keseluruhan.
+  - Chart ini menyesatkan, karena jumlah keseluruhan adalah 100% namun di sini jika di jumlahkan sampai pada nilai 110%
+  - 
+- **Gambar 1 (Bar Chart)**: Visualisasi yang baik karena menyajikan informasi dengan jelas, struktur yang baik, dan tidak menyesatkan.
+- **Gambar 3 (Bar Chart)**: Visualisasi yang kurang efektif karena terlalu banyak informasi menyesatkan
